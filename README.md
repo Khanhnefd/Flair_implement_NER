@@ -14,7 +14,7 @@ Using Flair for Named Entity Recognition in NLP
     - Python >= 3.7
 
 4. Training:
-    - Change ... to your proper file location and other constant to whatever name you want
+    - Change GLOVE_PATH, DATA_PATH to your proper file location and other constant to whatever name you want
     - Run train.py
 
 5. Result:
