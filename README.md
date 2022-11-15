@@ -10,7 +10,7 @@ Using Flair for Named Entity Recognition in NLP
     - Use glove.840B.300d  => [here](https://nlp.stanford.edu/projects/glove/)
 
 3. Requirements:
-    - Flair: pip install flair
+    - Flair: pip install flair => [link docs](https://github.com/flairNLP/flair)
     - Python >= 3.7
 
 4. Training:
